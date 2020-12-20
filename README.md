@@ -1,0 +1,2 @@
+# ImageProcessingProject
+A simple project using pyqt5 and scikit-image for Image Processing lecture 
