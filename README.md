@@ -6,3 +6,4 @@ Used Technologies and Libraries:
   - scikit-image
   - matplotlib
   - numpy
+Explanations after this directory will be in Turkish.
